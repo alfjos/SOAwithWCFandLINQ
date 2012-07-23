@@ -1,0 +1,3 @@
+This is a repository for a the examples according the book WCF 4.0 Multi-tier Services Development with LINQ to Entities by Mike Liu (http://amzn.to/NqJxRv).
+
+The examples showing in this repository are in chapter 2: "Implementing a Basic HelloWorld WCF Service" and Chapter 3: "Hosting and Debugging the HelloWorld WCF Service".
